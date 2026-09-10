@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CGT215LAB3rd/CGT215LAB3rd.vcxproj" />
+</Solution>
